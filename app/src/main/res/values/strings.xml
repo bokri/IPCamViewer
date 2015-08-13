@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IP Camera Viewer</string>
+    <string name="video_start_stop">Start/Stop Video</string>
+</resources>
